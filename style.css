@@ -33,3 +33,18 @@ h4 {
     color: #007bff;
     font-weight: bold;
 }
+
+h5 {
+    color: #ff0000ad;
+    font-weight: bold;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+
